@@ -1,0 +1,13 @@
+2026-10-27T09:10:04+05:30 auth-server-01 sshd[4812]: Failed password for employee01 from 203.0.113.25 port 51101 ssh2
+2026-10-27T09:10:21+05:30 auth-server-01 sshd[4817]: Failed password for employee01 from 203.0.113.25 port 51105 ssh2
+2026-10-27T09:10:49+05:30 auth-server-01 sshd[4824]: Failed password for employee01 from 203.0.113.25 port 51112 ssh2
+2026-10-27T09:11:07+05:30 auth-server-01 sshd[4831]: Failed password for employee01 from 203.0.113.25 port 51119 ssh2
+2026-10-27T09:11:36+05:30 auth-server-01 sshd[4840]: Failed password for employee01 from 203.0.113.25 port 51128 ssh2
+2026-10-27T09:12:02+05:30 auth-server-01 sshd[4848]: Failed password for employee01 from 203.0.113.25 port 51134 ssh2
+2026-10-27T09:12:30+05:30 auth-server-01 sshd[4855]: Failed password for employee01 from 203.0.113.25 port 51142 ssh2
+2026-10-27T09:13:01+05:30 auth-server-01 sshd[4862]: Failed password for employee01 from 203.0.113.25 port 51150 ssh2
+2026-10-27T09:13:29+05:30 auth-server-01 sshd[4870]: Failed password for employee01 from 203.0.113.25 port 51159 ssh2
+2026-10-27T09:14:03+05:30 auth-server-01 sshd[4878]: Failed password for employee01 from 203.0.113.25 port 51168 ssh2
+2026-10-27T09:14:37+05:30 auth-server-01 sshd[4885]: Failed password for employee01 from 203.0.113.25 port 51176 ssh2
+2026-10-27T09:15:12+05:30 auth-server-01 sshd[4893]: Failed password for employee01 from 203.0.113.25 port 51184 ssh2
+2026-10-27T09:16:08+05:30 auth-server-01 authd[4902]: Accepted password for employee01 from 203.0.113.25 port 51192 ssh2; session_id=sess-7f31a9; mfa=unknown

@@ -1,0 +1,16 @@
+timestamp_local,source,event_type,user,source_ip,session_id,resource_or_policy,result,notes
+2026-10-27T09:10:04+05:30,authentication,FAILED_LOGIN,employee01,203.0.113.25,,,FAIL,
+2026-10-27T09:10:21+05:30,authentication,FAILED_LOGIN,employee01,203.0.113.25,,,FAIL,
+2026-10-27T09:10:49+05:30,authentication,FAILED_LOGIN,employee01,203.0.113.25,,,FAIL,
+2026-10-27T09:11:07+05:30,authentication,FAILED_LOGIN,employee01,203.0.113.25,,,FAIL,
+2026-10-27T09:11:36+05:30,authentication,FAILED_LOGIN,employee01,203.0.113.25,,,FAIL,
+2026-10-27T09:12:02+05:30,authentication,FAILED_LOGIN,employee01,203.0.113.25,,,FAIL,
+2026-10-27T09:12:30+05:30,authentication,FAILED_LOGIN,employee01,203.0.113.25,,,FAIL,
+2026-10-27T09:13:01+05:30,authentication,FAILED_LOGIN,employee01,203.0.113.25,,,FAIL,
+2026-10-27T09:13:29+05:30,authentication,FAILED_LOGIN,employee01,203.0.113.25,,,FAIL,
+2026-10-27T09:14:03+05:30,authentication,FAILED_LOGIN,employee01,203.0.113.25,,,FAIL,
+2026-10-27T09:14:37+05:30,authentication,FAILED_LOGIN,employee01,203.0.113.25,,,FAIL,
+2026-10-27T09:15:12+05:30,authentication,FAILED_LOGIN,employee01,203.0.113.25,,,FAIL,
+2026-10-27T09:16:08+05:30,authentication,SUCCESSFUL_LOGIN,employee01,203.0.113.25,sess-7f31a9,,SUCCESS,MFA status unknown
+2026-10-27T09:19:11+05:30,aws_cloudtrail,PutUserPolicy,employee01,203.0.113.25,sess-7f31a9,TemporaryAdminAccess,SUCCESS,Illustrative IAM policy change; confirmed unauthorized in scenario
+2026-10-27T09:22:34+05:30,data_access,OBJECT_READ,employee01,203.0.113.25,sess-7f31a9,finance/quarterly-summary.csv,SUCCESS,Sensitive-data access; exfiltration not established
